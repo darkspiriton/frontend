@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Programa de practica donde se aplicara las tecnologias wb actuales",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkspiriton/frontend.git"
+  },
+  "author": "Cesar Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkspiriton/frontend/issues"
+  },
+  "homepage": "https://github.com/darkspiriton/frontend#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-stylus": "^2.3.1"
+  }
+}
